@@ -1,6 +1,6 @@
 # Introo-me
 <br>
-👋 Welcome to hubitachi GitHub Repository 👩‍💻
+👋 Welcome to hubitachi GitHub Repository 
 <br>
 Hello there, I'm Mohd Talib, and this is my digital playground. Here, you'll find the culmination of my passion, creativity, and endless curiosity.
 <br>
